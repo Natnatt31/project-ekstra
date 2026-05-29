@@ -1,8 +1,8 @@
-# 🎮 Globaliti Esport Badung
+#  Globaliti Esport Badung
 
 Website profil statis resmi **Globaliti Esport Badung** — organisasi esport berbasis di Kabupaten Badung, Bali.
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 - **HTML5** — Struktur konten
 - **CSS3 + Tailwind CSS v3** — Styling responsif
@@ -15,7 +15,7 @@ Website profil statis resmi **Globaliti Esport Badung** — organisasi esport be
 - **GLightbox** — Galeri lightbox
 - **Google Fonts** — Orbitron & Nunito
 
-## 📁 Struktur Proyek
+##  Struktur Proyek
 
 ```
 ├── index.html              # Halaman utama
@@ -42,7 +42,7 @@ Website profil statis resmi **Globaliti Esport Badung** — organisasi esport be
    npx serve .
    ```
 
-## 🌐 Deployment
+##  Deployment
 
 ### GitHub Pages
 1. Push ke branch `main`
@@ -54,22 +54,22 @@ Website profil statis resmi **Globaliti Esport Badung** — organisasi esport be
 2. Build command: _(kosong)_
 3. Publish directory: `/`
 
-## 📋 Fitur
+##  Fitur
 
-- ✅ Navbar sticky dengan smooth scroll
-- ✅ Hero section dengan Particles.js interaktif
-- ✅ Typewriter effect pada headline
-- ✅ Counter animasi statistik
-- ✅ 4 cabang game (MLBB, PUBG, FF, Valorant)
-- ✅ Roster pemain dengan tab filter & carousel
-- ✅ Timeline prestasi
-- ✅ Jadwal turnamen dengan badge status
-- ✅ Galeri foto dengan lightbox
-- ✅ Sponsor auto-scroll carousel
-- ✅ Form kontak
-- ✅ Responsif (mobile, tablet, desktop)
-- ✅ Dark mode gaming aesthetic
+-  Navbar sticky dengan smooth scroll
+-  Hero section dengan Particles.js interaktif
+-  Typewriter effect pada headline
+-  Counter animasi statistik
+-  4 cabang game (MLBB, PUBG, FF, Valorant)
+-  Roster pemain dengan tab filter & carousel
+-  Timeline prestasi
+-  Jadwal turnamen dengan badge status
+-  Galeri foto dengan lightbox
+-  Sponsor auto-scroll carousel
+-  Form kontak
+-  Responsif (mobile, tablet, desktop)
+-  Dark mode gaming aesthetic
 
-## 📄 Lisensi
+##  Lisensi
 
 © 2026 Globaliti Esport Badung. All rights reserved.
