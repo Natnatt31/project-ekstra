@@ -30,24 +30,13 @@ Website profil statis resmi **Globaliti Esport Badung** — organisasi esport be
 └── .gitignore
 ```
 
-## 🛠 Setup & Development
-
-1. Clone repository:
-   ```bash
-   git clone https://github.com/username/globaliti-esport-badung.git
-   ```
-
-2. Buka `index.html` di browser, atau gunakan Live Server:
-   ```bash
-   npx serve .
-   ```
 
 ##  Deployment
 
 ### GitHub Pages
 1. Push ke branch `main`
 2. Settings → Pages → Source: `main` / `/ (root)`
-3. Akses di: `https://username.github.io/globaliti-esport-badung/`
+3. Akses di: `https://github.com/Natnatt31/project-ekstra.git`
 
 ### Netlify
 1. Connect repository atau drag & drop folder
